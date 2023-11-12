@@ -194,7 +194,7 @@ Overall, this C++ program provides a simple Morse code conversion tool with an e
 
 ---
 
-The above resources are the once I have used feel free to explore more and if you find any additional informative resources to update this part of the file.
+The above resources are the once I have used feel free to explore more and if you find any additional informative resources do update this part of the file.
 
 ---
 
